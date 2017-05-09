@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 ![capture000](https://cloud.githubusercontent.com/assets/2511721/25863025/cd0b3502-34af-11e7-8d5f-fe6766004d2b.PNG)
-[Link](www.articulate.com) 
+[Link](rpilman.github.io) 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
