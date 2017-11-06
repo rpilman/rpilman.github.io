@@ -26,16 +26,4 @@ Syntax highlighted code block
 ```
 
 ![capture000](https://cloud.githubusercontent.com/assets/2511721/25863025/cd0b3502-34af-11e7-8d5f-fe6766004d2b.PNG)
-[Link](rpilman.github.io) 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-#Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
-(#https://github.com/rpilman/rpilman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration #file.
-
-### Support or Contact
-
-#Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support]
-#(https://github.com/contact) and we’ll help you sort it out.
+[Link](rpilman.github.io)
