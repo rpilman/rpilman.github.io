@@ -23,7 +23,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
+[Link](rpilman.github.io)
+
 
 ![capture000](https://cloud.githubusercontent.com/assets/2511721/25863025/cd0b3502-34af-11e7-8d5f-fe6766004d2b.PNG)
-[Link](rpilman.github.io)
